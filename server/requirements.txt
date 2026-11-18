@@ -3,3 +3,6 @@ Django
 Pillow
 gunicorn
 python-dotenv
+whitenoise
+flask
+nltk
